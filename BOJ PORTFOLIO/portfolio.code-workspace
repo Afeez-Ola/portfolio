@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\CSS - My Site Images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BOJ PORTFOLIO",
+		"cSpell.words": [
+			"giphy",
+			"typer"
+		]
+	}
+}
